@@ -1,0 +1,26 @@
+d=3+8v+s
+
+sendo d= distância total
+v= quantidade de voltas
+s= distância entre o ponto 0 da circunferência até o sensor
+
+para 1:
+v/d
+0/6
+1/14
+2/22
+3/30
+
+para 2:
+v/d
+0/7
+1/15
+2/23
+3/31
+
+para 3:
+v/d
+0/8
+311/16
+2/24
+3/32
