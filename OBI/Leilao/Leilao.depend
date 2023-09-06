@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685648672 source:c:\users\22000198\documents\obi\leilao\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1685715425 source:c:\users\22000198\downloads\leilao\main.c
+	<stdio.h>
+	<stdlib.h>
+
