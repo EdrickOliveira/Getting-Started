@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687215171 source:d:\edrick\edrick flash\escola\liberato\programação\tentando criar gravidade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
